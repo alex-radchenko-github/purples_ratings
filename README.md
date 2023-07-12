@@ -1,1 +1,1 @@
-# purples_ratings
+# ratings website
